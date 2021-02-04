@@ -1,2 +1,2 @@
-web: gunicon mb_project.swgi --log-file -
+web: gunicon mb_project.wsgi --log-file -
 
